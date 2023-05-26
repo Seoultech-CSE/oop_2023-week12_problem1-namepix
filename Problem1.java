@@ -11,7 +11,6 @@ public class Problem1 {
         /*
             list 입력 코드
          */
-        System.out.println("Enter five integers and five doubles: ");
         for(int i=0; i<5; i++){
             int a = input.nextInt();
             list.add(a);
